@@ -11,6 +11,6 @@ echo value of a is ${a}dollars
 # special variables for inputs 
 # special variables used for inputs are $0 to $n, $* , $#
 echo scrpit Name - $0
-echo First Argument - $n
+echo First Argument - $1
 echo All Arguments- $*
 echo No of Arguments - $#
