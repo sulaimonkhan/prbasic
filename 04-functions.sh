@@ -10,3 +10,4 @@ print_arguments() {
   echo all Argument - $*
   echo No of Argument - $#    
 }
+print_arguments abc 123 xyz
