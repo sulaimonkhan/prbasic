@@ -4,8 +4,8 @@ sample () {
   echo bye    
 }
 
-sample function exit status -$?
-
+sample 
+echo function exit status -$?
 
 
 
